@@ -42,7 +42,7 @@ export default function Home() {
     },
     {
       nome: "Trocador de Calor Inverter via Wi-Fi",
-      preco: "R$ 6.900",
+      preco: "R$ 7.900",
       imagem: "/trocar.jpg",
     },
   ];
